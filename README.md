@@ -13,3 +13,6 @@ https://downloadlynet.ir/2023/07/106225/10/nestjsauthentication-and-authorizatio
 https://www.psdly.com/nestjs-architecture-advanced-patterns
 
 https://downloadlynet.ir/2024/02/113650/01/visual-studio-code-for-developers-2024-beginner-to-advanced/13/?#/113650-udemy-132416034905.html
+
+https://downloadlynet.ir/2024/28/119370/02/git-with-visual-studio-code/22/?#/119370-udemy-132419035005.html
+
