@@ -16,3 +16,12 @@ https://downloadlynet.ir/2024/02/113650/01/visual-studio-code-for-developers-202
 
 https://downloadlynet.ir/2024/28/119370/02/git-with-visual-studio-code/22/?#/119370-udemy-132419035005.html
 
+<!-- Latex -->
+
+https://downloadlynet.ir/2020/19/7430/03/latex-for-professional-publications/19/?#/7430-udemy-042417024229.html
+
+https://downloadlynet.ir/2023/18/97150/05/master-academic-typesetting-with-latex/22/?#/97150-udemy-122344120117.html
+
+https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/?#/118685-udemy-172409030813.html
+
+<!-- Latex -->
