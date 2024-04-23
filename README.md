@@ -25,3 +25,5 @@ https://downloadlynet.ir/2023/18/97150/05/master-academic-typesetting-with-latex
 https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/?#/118685-udemy-172409030813.html
 
 <!-- Latex -->
+
+https://downloadlynet.ir/2020/27/25769/11/clean-code/23/?#/25769-udemy-092352101206.html
