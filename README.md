@@ -29,3 +29,5 @@ https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/
 https://downloadlynet.ir/2020/27/25769/11/clean-code/23/?#/25769-udemy-092352101206.html
 
 https://downloadlynet.ir/2023/28/107662/10/diploma-course-in-human-resource-management-hrm/23/?#/107662-udemy-152455034316.html
+
+https://downloadlynet.ir/2023/14/111686/12/data-engineering-ssis-etl-pipelines-python-web-scraping/10/?#/111686-udemy-072456043430.html
