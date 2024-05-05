@@ -12,6 +12,8 @@ https://downloadlynet.ir/2023/07/106225/10/nestjsauthentication-and-authorizatio
 
 https://www.psdly.com/nestjs-architecture-advanced-patterns
 
+https://downloadlynet.ir/2020/13/3239/03/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/11/?#/3239-udemy-172418054505.html
+
 https://downloadlynet.ir/2024/02/113650/01/visual-studio-code-for-developers-2024-beginner-to-advanced/13/?#/113650-udemy-132416034905.html
 
 https://downloadlynet.ir/2024/28/119370/02/git-with-visual-studio-code/22/?#/119370-udemy-132419035005.html
@@ -33,3 +35,5 @@ https://downloadlynet.ir/2023/28/107662/10/diploma-course-in-human-resource-mana
 https://downloadlynet.ir/2023/14/111686/12/data-engineering-ssis-etl-pipelines-python-web-scraping/10/?#/111686-udemy-072456043430.html
 
 https://downloadlynet.ir/2022/12/88375/12/scrapy-masterclass-python-web-scraping-and-data-pipelines/03/?#/88375-udemy-202418053101.html
+
+https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-scraping-data-pipeline/11/?#/116919-udemy-222408043529.html
