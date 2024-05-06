@@ -18,15 +18,7 @@ https://downloadlynet.ir/2024/02/113650/01/visual-studio-code-for-developers-202
 
 https://downloadlynet.ir/2024/28/119370/02/git-with-visual-studio-code/22/?#/119370-udemy-132419035005.html
 
-<!-- Latex -->
 
-https://downloadlynet.ir/2020/19/7430/03/latex-for-professional-publications/19/?#/7430-udemy-042417024229.html
-
-https://downloadlynet.ir/2023/18/97150/05/master-academic-typesetting-with-latex/22/?#/97150-udemy-122344120117.html
-
-https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/?#/118685-udemy-172409030813.html
-
-<!-- Latex -->
 
 https://downloadlynet.ir/2020/27/25769/11/clean-code/23/?#/25769-udemy-092352101206.html
 
@@ -37,3 +29,12 @@ https://downloadlynet.ir/2023/14/111686/12/data-engineering-ssis-etl-pipelines-p
 https://downloadlynet.ir/2022/12/88375/12/scrapy-masterclass-python-web-scraping-and-data-pipelines/03/?#/88375-udemy-202418053101.html
 
 https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-scraping-data-pipeline/11/?#/116919-udemy-222408043529.html
+
+
+
+
+
+<!-- https://downloadlynet.ir/2020/19/7430/03/latex-for-professional-publications/19/?#/7430-udemy-042417024229.html -->
+<!-- https://downloadlynet.ir/2023/18/97150/05/master-academic-typesetting-with-latex/22/?#/97150-udemy-122344120117.html -->
+<!-- https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/?#/118685-udemy-172409030813.html -->
+<!-- Udemy - Design Patterns in Python 2020-2 Eng Sub -->
