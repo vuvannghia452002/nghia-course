@@ -20,6 +20,9 @@ https://downloadlynet.ir/2024/28/119370/02/git-with-visual-studio-code/22/?#/119
 
 
 
+https://downloadlynet.ir/2020/13/3239/03/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/11/?#/3239-udemy-152440050012.html
+
+
 https://downloadlynet.ir/2020/27/25769/11/clean-code/23/?#/25769-udemy-092352101206.html
 
 https://downloadlynet.ir/2023/28/107662/10/diploma-course-in-human-resource-management-hrm/23/?#/107662-udemy-152455034316.html
@@ -38,3 +41,14 @@ https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-sc
 <!-- https://downloadlynet.ir/2023/18/97150/05/master-academic-typesetting-with-latex/22/?#/97150-udemy-122344120117.html -->
 <!-- https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/?#/118685-udemy-172409030813.html -->
 <!-- Udemy - Design Patterns in Python 2020-2 Eng Sub -->
+
+
+<!-- ctdlgt -->
+
+
+
+<!-- Udemy - Kubernetes Hands-On - Deploy Microservices to the AWS Cloud 2022-9 -->
+
+
+<!-- Udemy_Istio_Hands_On_for_Kubernetes -->
+
