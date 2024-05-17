@@ -52,3 +52,4 @@ https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-sc
 
 <!-- Udemy_Istio_Hands_On_for_Kubernetes -->
 
+https://downloadlynet.ir/2023/13/96772/05/master-modern-security-and-cryptography-by-coding-in-python/10/?#/96772-udemy-132403034003.html
