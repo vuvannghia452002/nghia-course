@@ -37,14 +37,18 @@ https://downloadlynet.ir/2023/13/96772/05/master-modern-security-and-cryptograph
 
 <!--  -->
 
-https://downloadlynet.ir/2024/21/126806/05/nestjs-microservices/23/?#/126806-nestjs-212411052222.html
+https://downloadlynet.ir/2023/10/108568/11/the-ultimate-authentication-course-with-nestjs-and-react/22/?#/108568-udemy-212415052522.html
 
 https://downloadlynet.ir/2023/14/106779/10/nestjs-fundamentals/22/?#/106779-learn-ne-212410010712.html
-
 https://downloadlynet.ir/2023/07/106222/10/nestjs-advanced-concepts/22/?#/106222-learn-ne-092337122429.html
-
 https://downloadlynet.ir/2023/07/106225/10/nestjsauthentication-and-authorization/22/?#/106225-learn-ne-152427013411.html
 
-https://www.psdly.com/nestjs-architecture-advanced-patterns
+<!-- https://www.psdly.com/nestjs-architecture-advanced-patterns -->
+
+https://downloadlynet.ir/2024/26/119071/02/nestjs-architecture-advanced-patterns/22/?#/119071-learn-ne-212415051622.html
+https://downloadlynet.ir/2024/21/126806/05/nestjs-microservices/23/?#/126806-nestjs-212411052222.html
+
+https://downloadlynet.ir/2024/01/122131/04/nestjs-in-practice-with-mongodb/00/?#/122131-udemy-212415051522.html
+https://downloadlynet.ir/2024/16/120832/03/nestjs-graphql-code-first-approach/00/?#/120832-learn-ne-212415051622.html
 
 <!--  -->
