@@ -18,10 +18,6 @@ https://downloadlynet.ir/2023/28/107662/10/diploma-course-in-human-resource-mana
 
 https://downloadlynet.ir/2023/14/111686/12/data-engineering-ssis-etl-pipelines-python-web-scraping/10/?#/111686-udemy-072456043430.html
 
-https://downloadlynet.ir/2022/12/88375/12/scrapy-masterclass-python-web-scraping-and-data-pipelines/03/?#/88375-udemy-202418053101.html
-
-https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-scraping-data-pipeline/11/?#/116919-udemy-222408043529.html
-
 <!-- https://downloadlynet.ir/2020/19/7430/03/latex-for-professional-publications/19/?#/7430-udemy-042417024229.html -->
 <!-- https://downloadlynet.ir/2023/18/97150/05/master-academic-typesetting-with-latex/22/?#/97150-udemy-122344120117.html -->
 <!-- https://downloadlynet.ir/2024/22/118685/02/the-complete-latex-bootcamp-v2024/23/?#/118685-udemy-172409030813.html -->
@@ -56,3 +52,11 @@ https://downloadlynet.ir/2024/16/120832/03/nestjs-graphql-code-first-approach/00
 https://downloadlynet.ir/2023/23/95725/04/apache-airflow-a-real-time-hands-on-course-on-airflow/06/?#/95725-udemy-072450050930.html
 
 <!--  -->
+
+
+https://downloadlynet.ir/2022/12/88375/12/scrapy-masterclass-python-web-scraping-and-data-pipelines/03/?#/88375-udemy-202418053101.html
+https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-scraping-data-pipeline/11/?#/116919-udemy-222408043529.html
+https://downloadlynet.ir/2020/15/5242/03/scrapy-powerful-web-scraping-crawling-with-python/15/?#/5242-udemy-222408043629.html
+https://downloadlynet.ir/2020/12/13658/05/advanced-web-scraping-with-python-using-scrapy-splash/10/?#/13658-udemy-222409042329.html
+https://downloadlynet.ir/2024/17/117958/02/scrapy-masterclass-learn-web-scraping-with-scrapy-framework/21/?#/117958-udemy-222408045729.html
+https://downloadlynet.ir/2020/12/2446/03/modern-web-scraping-with-python-using-scrapy-splash-selenium/17/?#/2446-udemy-222409043229.html
