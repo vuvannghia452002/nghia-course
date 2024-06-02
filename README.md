@@ -53,7 +53,6 @@ https://downloadlynet.ir/2023/23/95725/04/apache-airflow-a-real-time-hands-on-co
 
 <!--  -->
 
-
 https://downloadlynet.ir/2022/12/88375/12/scrapy-masterclass-python-web-scraping-and-data-pipelines/03/?#/88375-udemy-202418053101.html
 https://downloadlynet.ir/2024/07/116919/02/scrapy-unleashed-master-python-web-scraping-data-pipeline/11/?#/116919-udemy-222408043529.html
 https://downloadlynet.ir/2020/15/5242/03/scrapy-powerful-web-scraping-crawling-with-python/15/?#/5242-udemy-222408043629.html
