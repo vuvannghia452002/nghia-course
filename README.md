@@ -59,3 +59,9 @@ https://downloadlynet.ir/2020/15/5242/03/scrapy-powerful-web-scraping-crawling-w
 https://downloadlynet.ir/2020/12/13658/05/advanced-web-scraping-with-python-using-scrapy-splash/10/?#/13658-udemy-222409042329.html
 https://downloadlynet.ir/2024/17/117958/02/scrapy-masterclass-learn-web-scraping-with-scrapy-framework/21/?#/117958-udemy-222408045729.html
 https://downloadlynet.ir/2020/12/2446/03/modern-web-scraping-with-python-using-scrapy-splash-selenium/17/?#/2446-udemy-222409043229.html
+
+<!-- https://downloadlynet.ir/2024/26/119043/02/master-python-web-scraping-automation-using-bs4-selenium/12/?#/119043-udemy-222408044729.html -->
+<!-- https://downloadlynet.ir/2023/22/112636/12/scrapy-mastery-course-become-a-python-web-scraping-machine/17/?#/112636-udemy-222409040329.html -->
+<!-- https://downloadlynet.ir/2024/03/113738/01/web-scraping-for-beginners-with-python-scrapy-bs4/20/?#/113738-udemy-222409040029.html -->
+<!-- https://downloadlynet.ir/2023/17/112089/12/build-a-search-engine-with-python-computer-science-python/21/?#/112089-udemy-b-222409040829.html -->
+<!-- https://downloadlynet.ir/2023/05/92916/03/the-ultimate-web-scraping-with-python-bootcamp/11/?#/92916-udemy-222409041229.html -->
